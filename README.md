@@ -5,7 +5,7 @@ An application designed to streamline task management, appointments, and client 
 ## Table of Contents
 
 - [Description](#description)
-- - [Images](#images)
+- [Images](#images)
 - [Features](#features)
 - [Services](#services)
 - [Technologies Used](#technologies-used)
@@ -25,9 +25,9 @@ The Professional Services App is a comprehensive solution designed to assist pro
 
 **User Interface:**
 <img src="Images/Serviceprovider-ezgif.com-video-to-gif-converter.gif" width="100%" height="100%">
-
+**Home page:**
 ![Image 1](Images/home.png)
-
+**Service Requests to Service Provider:**
 ![Image 2](Images/allrequest.png)
 
 ## Features
