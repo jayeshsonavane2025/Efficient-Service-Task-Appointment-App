@@ -24,8 +24,8 @@ The Professional Services App is a comprehensive solution designed to assist pro
 
 ![Video](Images/Serviceprovider-ezgif.com-video-to-gif-converter.gif)
 ![Image 2](Images/home.png)
-![Image 3](Images/Service Provider/myservice.png)
-
+![Image 3](Images/geoloc.png)
+![Image 4](Images/allrequest.png)
 
 ## Features
 
