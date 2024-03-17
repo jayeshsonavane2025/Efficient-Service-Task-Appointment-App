@@ -20,12 +20,15 @@ An application designed to streamline task management, appointments, and client 
 ## Description
 
 The Professional Services App is a comprehensive solution designed to assist professionals in managing their workflow efficiently across various service domains. This application enables seamless task management, appointment scheduling, and client communication, empowering service providers to deliver exceptional services to their clients.
+
 ## Images
 
-![Video](Images/Serviceprovider-ezgif.com-video-to-gif-converter.gif)
-![Image 2](Images/home.png)
-![Image 3](Images/geoloc.png)
-![Image 4](Images/allrequest.png)
+**User Interface:**
+<img src="Images/Serviceprovider-ezgif.com-video-to-gif-converter.gif" width="100%" height="100%">
+
+![Image 1](Images/home.png)
+
+![Image 2](Images/allrequest.png)
 
 ## Features
 
