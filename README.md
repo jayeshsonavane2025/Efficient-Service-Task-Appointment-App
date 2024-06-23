@@ -1,4 +1,5 @@
-# Professional-Services-App
+# Efficient Service Task & Appointment App
+
 
 An application designed to streamline task management, appointments, and client interactions for professionals in various service fields, including plumbing, electrical work, painting, carpentry, appliance repair, roofing, flooring, cleaning, and more.
 
